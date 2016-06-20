@@ -9,7 +9,7 @@ Simple Java is a collection of frequently asked Java questions.中文翻译
 
 [Why string is immutable?](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/Why%20string%20is%20immutable%20.md)
 
-Create Java string Using ” ” or constructor?
+[Create Java string Using ” ” or constructor?](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/Create%20Java%20String%20Using%20%E2%80%9D%20%E2%80%9D%20or%20Constructor%3F.md)
 
 Is string passed by reference?
 
