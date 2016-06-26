@@ -17,9 +17,9 @@ Is string passed by reference?
 
 [How to check if an array contains a value efficiently?](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/How%20to%20Check%20if%20an%20Array%20Contains%20a%20Value%20in%20Java%20Efficiently%3F.md)
 
-What is varargs?
+[What is varargs?](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/Java%20Varargs%20Examples%20Java.md)
 
-What exactly is null?
+[What exactly is null?](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/What%20exactly%20is%20null%20in%20Java%3F.md)
 
 ##2. Common Methods
 
