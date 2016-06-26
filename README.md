@@ -1,7 +1,7 @@
 # simple-java-zh-CN
 Simple Java is a collection of frequently asked Java questions.中文翻译
 
-##1. Strings and Arrays
+##1. Strings and Arrays 字符串和数组
 
 [What is string immutability?](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/Diagram%20to%20show%20Java%20String%E2%80%99s%20Immutability.md)
 
@@ -21,4 +21,13 @@ What is varargs?
 
 What exactly is null?
 
+##2. Common Methods
+
+Comparator vs. Comparable
+
+The contract between hashCode() and equals()
+
+Java passes object by reference or by value?
+
+Iteration vs. recursion
 
