@@ -31,3 +31,68 @@ Java passes object by reference or by value?
 
 Iteration vs. recursion
 
+##3. Classes and Interfaces
+
+Overloading vs. overriding
+
+What is instance initializer?
+
+Fields can not be overridden?
+
+Inheritance vs. composition
+
+How to use Java Enum?
+
+How many types of inner classes?
+
+What is inner interface?
+
+Constructors of sub and super classes?
+
+4 access levels
+
+When to use private constructors?
+
+## 4.1 Collections
+
+Class hierarchy of Collection and Map
+
+ArrayList vs. LinkedList vs. Vector
+
+HashSet vs. TreeSet vs. LinkedHashSet
+
+HashMap vs. TreeMap vs. HashTable vs. LinkedHashMap
+
+Sort Map By Value
+
+A TreeSet example
+
+Efficient counter
+
+Frequently used methods of HashMap
+
+Deep understanding of Arrays.sort(T[], Comparator < ? super T > c)
+
+How do developers sort?
+
+java.util.ConcurrentModificationException
+
+##4.2 Generics 泛型
+
+Why do we need generic types?
+
+Why do we need generic methods?
+
+What is type erasure?
+
+Set vs. Set<?>
+
+What's the best way of converting Array to ArrayList?
+
+##5. Exceptions
+
+How exception handling works?
+
+Class hierarchy of exceptions
+
+
