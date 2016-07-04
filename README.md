@@ -65,7 +65,7 @@ HashMap vs. TreeMap vs. HashTable vs. LinkedHashMap
 
 Sort Map By Value
 
-A TreeSet example
+[A TreeSet example](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/A%20simple%20TreeSet%20example.md)
 
 Efficient counter
 
