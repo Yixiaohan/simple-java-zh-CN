@@ -77,7 +77,7 @@ How do developers sort?
 
 java.util.ConcurrentModificationException
 
-##4.2 Generics 泛型
+## 4.2 Generics 泛型
 
 Why do we need generic types?
 
@@ -89,10 +89,143 @@ Set vs. Set<?>
 
 What's the best way of converting Array to ArrayList?
 
-##5. Exceptions
+## 5. Exceptions
 
 How exception handling works?
 
 Class hierarchy of exceptions
 
+
+## 6. Concurrency
+
+Monitors – the key idea of Java synchronization
+
+How to make a method thread-safe?
+
+join()
+
+notify() and wait()
+
+Create thread by overriding
+
+## 7. I/O & Database
+
+Read file line by line
+
+Write file line by line
+
+FileOutputStream vs. FileWriter
+
+Should .close() be put in finally block or not?
+
+Java serialization
+
+How to use properties file?
+
+##8. Compiler and JVM
+
+JVM run-time data areas
+
+How does Java handle aliasing？
+
+What does an array look like in memory?
+
+What is memory leak?
+
+What can be learned from "Hello World"?
+
+Whan and how a class is loaded and initialized?
+
+Static type checking
+
+Generate code for overloaded and overridden methods?
+
+## 9. Top collections
+
+Top 10 mistakes Java developers make
+
+[Top 10 methods for Java arrays](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/Top%2010%20Methods%20for%20Java%20Arrays.md) 数组常用方法
+
+Top 10 questions of Java strings
+
+Top 10 questions for Java regular expression
+
+Top 10 questions about Java exceptions
+
+Top 10 questions about Java collections
+
+Top 9 questions about Java maps
+
+The most widely used Java libraries
+
+Top 10 websites for advanced level Java developers
+
+Top 10 books for advanced level Java developers
+
+Top 100 High-quality Java blogs
+
+Top 10 algorithms for coding interview
+
+Top 8 diagrams for understanding Java 
+
+Top 100 Java Classes
+
+
+##10. Popular Libraries, Frameworks and Tools
+
+Reflection tutorial
+
+What is framework?
+
+Why do we need Java web frameworks like Struts 2?
+
+What is Servlet Container? What is Tomcat?
+
+What is aspect-oriented Programming?
+
+Library vs. framework?
+
+Spring
+
+Open source projects using Spring framework
+
+Design patterns in stories
+
+Struts 2
+
+How CVS works?
+
+Why do we need software testing?
+
+Convert java jar file to exe
+
+Guava
+
+Log4j
+
+JSoup
+
+Swing
+
+##11. Others
+
+Compile and Run Java in Command Line with External Jars
+
+How to build your own library?
+
+How to get double?
+
+Java and computer science courses
+
+Java vs. Python: Basic Syntax, Date Types
+
+How to write a crawler?
+
+8 things programmers can do at weekends
+
+Declaration, initialization and scoping
+
+Date formatting(add more)
+
+Path of package and class
 
