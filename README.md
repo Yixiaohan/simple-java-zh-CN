@@ -55,7 +55,7 @@ When to use private constructors?
 
 ## 4.1 Collections
 
-Class hierarchy of Collection and Map
+[Class hierarchy of Collection and Map](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/The%20Interface%20and%20Class%20Hierarchy%20Diagram%20of%20Java%20Collections%20.md)
 
 ArrayList vs. LinkedList vs. Vector
 
