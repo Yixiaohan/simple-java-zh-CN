@@ -69,7 +69,7 @@ Sort Map By Value
 
 Efficient counter
 
-Frequently used methods of HashMap
+[Frequently used methods of HashMap](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/Frequently%20Used%20Methods%20of%20Java%20HashMap.md) HashMap常用方法。例如，按值排序
 
 Deep understanding of Arrays.sort(T[], Comparator < ? super T > c)
 
