@@ -73,7 +73,7 @@ Efficient counter
 
 Deep understanding of Arrays.sort(T[], Comparator < ? super T > c)
 
-How do developers sort?
+[How do developers sort?](https://github.com/Yixiaohan/simple-java-zh-CN/blob/master/content/How%20Developers%20Sort%20in%20Java%3F.md) 常见排序，Collections、Arrays、TreeMap、TreeSet
 
 java.util.ConcurrentModificationException
 
