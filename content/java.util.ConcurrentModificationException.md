@@ -1,6 +1,6 @@
 # java.util.ConcurrentModificationException
 
-本文将解决 ArrayList 常见的 java.util.ConcurrentModificationException
+本文将解决 `ArrayList` 常见的 `java.util.ConcurrentModificationException`
 
 错误信息类似：
 
